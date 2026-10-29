@@ -1,0 +1,7 @@
+101,Aman,BCA,85
+102,Riya,BCA,78
+103,Karan,BCA,91
+104,Neha,BSc,67
+105,Aman,BCA,85
+106,Simran,BCA,88
+107,Raj,BSc,45
